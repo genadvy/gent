@@ -1,5 +1,3 @@
-div h1{
-    color: blue;
-    text-align: center;
+.btn-success {
+    background-color: grey;
 }
-p.new {font-family: 'Times New Roman', Times, serif}
